@@ -10,8 +10,7 @@ const breweryContent = document.createElement("div");
 breweryContent.innerHTML =
   "<p class='text-center'>Divya Cosmetics</p>";
 
-var apiUrl =
-  "http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline";
+var apiUrl = "https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline";
 
 var allProductsData = [];
 var totalPages = 0;
