@@ -1,0 +1,108 @@
+body {
+    background-image: url("https://media.istockphoto.com/id/1269281776/photo/3d-beige-pedestal-podium-with-liquid-foundation-splash-swirl-on-studio-background-nude-cream.jpg?b=1&s=612x612&w=0&k=20&c=UCsqI8ky96TFMthRdOWV1oGQsHIVlrfO_w98N6DRqss=");
+    background-size: cover;
+    background-position: center top;
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+
+.websiteName {
+    height: 30vh;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .headline_h {
+    color: #fff;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 60px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+      1px 1px 0 #000;
+  }
+  .headline_p {
+    color: #fff;
+    margin: 0;
+    font-size: 20px;
+    font-family: "Satisfy", cursive;
+    opacity: 70%;
+    margin-bottom: 10px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+      1px 1px 0 #000;
+  }
+
+
+.page {
+    background: rgb(235, 211, 219);
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    padding: 20px;
+    margin-inline-start: 65px;
+}
+
+
+
+.image{
+
+padding-bottom: 20px;
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 20%;
+}
+
+
+
+
+  .name{
+    padding: 2px;
+    margin-inline-start: 60px;
+    color: rgb(34, 28, 28);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.125rem;
+    height: 30vh;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    font-family: sans-serif;
+    text-align: center;
+   
+  }
+
+  .imagelink{
+    margin: 10px;
+    color: rgb(187, 69, 89);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+
+ 
+
+  .brand{
+    
+    margin: 10px;
+    color: rgb(187, 69, 89);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+
+  .price{
+    
+    margin: 10px;
+    color: rgb(187, 69, 89);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
